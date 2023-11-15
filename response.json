@@ -1,0 +1,813 @@
+{
+    "offers": [
+        {
+            "specifics": [
+                "events",
+                "spokenLanguages",
+                "sex",
+                "age",
+                "location"
+            ],
+            "channel": "facebook",
+            "id": "9467425D-567F-45BD-ACF5-D9DD4BE3BC00",
+            "campaigns": [
+                {
+                    "id": "2FBFD2E7-C90E-459C-B8A2-6C8DB3CBFBDF",
+                    "price": {
+                        "currency": "EUR",
+                        "value": 140
+                    },
+                    "features": [
+                        {
+                            "listings": {
+                                "range": [ 3, 8 ]
+                            }
+                        },
+                        {
+                            "optimisations": {
+                                "count": 12
+                            }
+                        },
+                        {
+                            "hasMonthlyReports": {}
+                        },
+                        {
+                            "hasSetup": {}
+                        },
+                        {
+                            "hasAdminAndOptimising": {}
+                        },
+                        {
+                            "hasInstall": {}
+                        },
+                        {
+                            "hasEmailSupport": {}
+                        },
+                        {
+                            "hasLandingPage": {}
+                        },
+                        {
+                            "hasConversionMonitoring": {}
+                        }
+                    ]
+                },
+                {
+                    "price": {
+                        "value": 200,
+                        "currency": "EUR"
+                    },
+                    "id": "0C85F2F3-E091-47F3-BBD5-CAD75F358C6C",
+                    "features": [
+                        {
+                            "listings": {
+                                "range": [ 8, 15 ]
+                            }
+                        },
+                        {
+                            "optimisations": {
+                                "count": 20
+                            }
+                        },
+                        {
+                            "hasMonthlyReports": {}
+                        },
+                        {
+                            "hasSetup": {}
+                        },
+                        {
+                            "hasAdminAndOptimising": {}
+                        },
+                        {
+                            "hasInstall": {}
+                        },
+                        {
+                            "hasEmailSupport": {}
+                        },
+                        {
+                            "hasPhoneSupport": {}
+                        },
+                        {
+                            "hasLandingPage": {}
+                        },
+                        {
+                            "hasConversionMonitoring": {}
+                        },
+                        {
+                            "hasRemarketing": {}
+                        }
+                    ]
+                },
+                {
+                    "price": {
+                        "value": 100,
+                        "currency": "EUR"
+                    },
+                    "id": "BD730893-CB8B-4CF9-A6B8-4C2A30A7B193",
+                    "features": [
+                        {
+                            "listings": {
+                                "range": [ 1, 3 ]
+                            }
+                        },
+                        {
+                            "optimisations": {
+                                "count": 8
+                            }
+                        },
+                        {
+                            "hasMonthlyReports": {}
+                        },
+                        {
+                            "hasSetup": {}
+                        },
+                        {
+                            "hasAdminAndOptimising": {}
+                        },
+                        {
+                            "hasInstall": {}
+                        },
+                        {
+                            "hasEmailSupport": {}
+                        },
+                        {
+                            "hasConversionMonitoring": {}
+                        }
+                    ]
+                },
+                {
+                    "id": "44D46B60-B436-4B17-804B-EE34C8091B14",
+                    "price": {
+                        "currency": "EUR",
+                        "value": 75
+                    },
+                    "features": [
+                        {
+                            "optimisations": {
+                                "count": 8
+                            }
+                        },
+                        {
+                            "facebookPages": {
+                                "count": 1
+                            }
+                        },
+                        {
+                            "hasMonthlyReports": {}
+                        },
+                        {
+                            "hasSetup": {}
+                        },
+                        {
+                            "hasAdminAndOptimising": {}
+                        },
+                        {
+                            "hasEmailSupport": {}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "specifics": [
+                "education",
+                "expertise",
+                "industry",
+                "company",
+                "sex",
+                "age",
+                "location"
+            ],
+            "id": "1B7756C6-D4F7-46DE-B444-B06CBB184895",
+            "channel": "linkedin",
+            "campaigns": [
+                {
+                    "price": {
+                        "currency": "EUR",
+                        "value": 150
+                    },
+                    "features": [
+                        {
+                            "listings": {
+                                "range": [ 5, 8 ]
+                            }
+                        },
+                        {
+                            "hasMonthlyReports": {}
+                        },
+                        {
+                            "hasSetup": {}
+                        },
+                        {
+                            "hasMonitoring": {}
+                        },
+                        {
+                            "hasAdminAndOptimising": {}
+                        },
+                        {
+                            "hasEmailSupport": {}
+                        }
+                    ],
+                    "id": "0B6DC02D-E3D2-4AB5-A1FA-19156748E6F8"
+                },
+                {
+                    "price": {
+                        "currency": "EUR",
+                        "value": 180
+                    },
+                    "features": [
+                        {
+                            "listings": {
+                                "range": [ 8, 10 ]
+                            }
+                        },
+                        {
+                            "hasMonthlyReports": {}
+                        },
+                        {
+                            "hasSetup": {}
+                        },
+                        {
+                            "hasMonitoring": {}
+                        },
+                        {
+                            "hasAdminAndOptimising": {}
+                        },
+                        {
+                            "hasEmailSupport": {}
+                        },
+                        {
+                            "hasPhoneSupport": {}
+                        }
+                    ],
+                    "id": "854843FB-B9D4-4D26-ACA4-DB8E54EC8CC4"
+                },
+                {
+                    "price": {
+                        "value": 90,
+                        "currency": "EUR"
+                    },
+                    "id": "B7AC4D69-B083-4363-8DA9-A83FDA314470",
+                    "features": [
+                        {
+                            "listings": {
+                                "range": [ 1, 3 ]
+                            }
+                        },
+                        {
+                            "hasMonthlyReports": {}
+                        },
+                        {
+                            "hasSetup": {}
+                        },
+                        {
+                            "hasAdminAndOptimising": {}
+                        },
+                        {
+                            "hasEmailSupport": {}
+                        }
+                    ]
+                },
+                {
+                    "features": [
+                        {
+                            "listings": {
+                                "range": [ 1, 2 ]
+                            }
+                        },
+                        {
+                            "hasSetup": {}
+                        },
+                        {
+                            "hasAdminAndOptimising": {}
+                        },
+                        {
+                            "hasEmailSupport": {}
+                        }
+                    ],
+                    "price": {
+                        "currency": "EUR",
+                        "value": 60
+                    },
+                    "id": "E037B289-077F-4274-B6CA-31A6929DEAEC"
+                }
+            ]
+        },
+        {
+            "campaigns": [
+                {
+                    "features": [
+                        {
+                            "listings": {
+                                "range": [ 10, 15 ]
+                            }
+                        },
+                        {
+                            "hasMonthlyReports": {}
+                        },
+                        {
+                            "hasSetup": {}
+                        },
+                        {
+                            "hasAdminAndOptimising": {}
+                        },
+                        {
+                            "hasEmailSupport": {}
+                        },
+                        {
+                            "hasAuctioning": {}
+                        },
+                        {
+                            "hasTargetedTweets": {}
+                        }
+                    ],
+                    "price": {
+                        "currency": "EUR",
+                        "value": 170
+                    },
+                    "id": "2A039849-CD5C-461C-9E23-31D54D007BA2"
+                },
+                {
+                    "id": "884E9AB9-4420-46B8-983D-AB4DBEC30F76",
+                    "price": {
+                        "currency": "EUR",
+                        "value": 250
+                    },
+                    "features": [
+                        {
+                            "listings": {
+                                "range": [ 15, 20 ]
+                            }
+                        },
+                        {
+                            "hasMonthlyReports": {}
+                        },
+                        {
+                            "hasSetup": {}
+                        },
+                        {
+                            "hasAdminAndOptimising": {}
+                        },
+                        {
+                            "hasEmailSupport": {}
+                        },
+                        {
+                            "hasPhoneSupport": {}
+                        },
+                        {
+                            "hasAuctioning": {}
+                        },
+                        {
+                            "hasTargetedTweets": {}
+                        }
+                    ]
+                },
+                {
+                    "features": [
+                        {
+                            "listings": {
+                                "range": [ 5, 10 ]
+                            }
+                        },
+                        {
+                            "hasSetup": {}
+                        },
+                        {
+                            "hasAdminAndOptimising": {}
+                        },
+                        {
+                            "hasEmailSupport": {}
+                        },
+                        {
+                            "hasAuctioning": {}
+                        },
+                        {
+                            "hasTargetedTweets": {}
+                        }
+                    ],
+                    "id": "A9D90914-E0BA-4457-B4C7-60CA0A5A4D11",
+                    "price": {
+                        "currency": "EUR",
+                        "value": 120
+                    }
+                },
+                {
+                    "price": {
+                        "value": 80,
+                        "currency": "EUR"
+                    },
+                    "id": "C1AD4A18-C052-4118-9C19-C5FE6FA8E36A",
+                    "features": [
+                        {
+                            "listings": {
+                                "range": [  1, 5 ]
+                            }
+                        },
+                        {
+                            "hasSetup": {}
+                        },
+                        {
+                            "hasEmailSupport": {}
+                        },
+                        {
+                            "hasAuctioning": {}
+                        },
+                        {
+                            "hasTargetedTweets": {}
+                        }
+                    ]
+                }
+            ],
+            "channel": "twitter",
+            "id": "424926D1-1DFD-44BB-A6B3-F02560485537",
+            "specifics": [
+                "technology",
+                "events",
+                "spokenLanguages",
+                "sex",
+                "age",
+                "location"
+            ]
+        },
+        {
+            "id": "AFA2EE8E-0F6B-48D3-885C-B00CBDA943E8",
+            "specifics": [
+                "interests",
+                "spokenLanguages",
+                "sex",
+                "age",
+                "location"
+            ],
+            "campaigns": [
+                {
+                    "features": [
+                        {
+                            "listings": {
+                                "range": [ 5,  8 ]
+                            }
+                        },
+                        {
+                            "optimisations": {
+                                "count": 4
+                            }
+                        },
+                        {
+                            "hasSetup": {}
+                        },
+                        {
+                            "hasTesting": {}
+                        },
+                        {
+                            "hasAnalysis": {}
+                        },
+                        {
+                            "hasEmailSupport": {}
+                        }
+                    ],
+                    "id": "A9B0E7C5-D831-4606-A6D5-156D0894640E",
+                    "price": {
+                        "currency": "EUR",
+                        "value": 180
+                    }
+                },
+                {
+                    "id": "54D438B3-3CE2-4EB6-9C9B-8AB2075E6777",
+                    "price": {
+                        "value": 270,
+                        "currency": "EUR"
+                    },
+                    "features": [
+                        {
+                            "listings": {
+                                "range": [ 10, 12 ]
+                            }
+                        },
+                        {
+                            "optimisations": {
+                                "count": 8
+                            }
+                        },
+                        {
+                            "hasSetup": {}
+                        },
+                        {
+                            "hasTesting": {}
+                        },
+                        {
+                            "hasAnalysis": {}
+                        },
+                        {
+                            "hasMonitoring": {}
+                        },
+                        {
+                            "hasEmailSupport": {}
+                        },
+                        {
+                            "hasPhoneSupport": {}
+                        }
+                    ]
+                },
+                {
+                    "features": [
+                        {
+                            "listings": {
+                                "range": [ 1, 4 ]
+                            }
+                        },
+                        {
+                            "optimisations": {
+                                "count": 2
+                            }
+                        },
+                        {
+                            "hasSetup": {}
+                        },
+                        {
+                            "hasAnalysis": {}
+                        },
+                        {
+                            "hasEmailSupport": {}
+                        }
+                    ],
+                    "price": {
+                        "currency": "EUR",
+                        "value": 130
+                    },
+                    "id": "72213934-5E22-4DBB-ABFD-8E7F3F78E6A7"
+                },
+                {
+                    "id": "287645C1-C101-45C1-9F8D-8F51B2190928",
+                    "features": [
+                        {
+                            "listings": {
+                                "range": [ 1, 1 ]
+                            }
+                        },
+                        {
+                            "optimisations": {
+                                "count": 0
+                            }
+                        },
+                        {
+                            "hasSetup": {}
+                        },
+                        {
+                            "hasEmailSupport": {}
+                        }
+                    ],
+                    "price": {
+                        "currency": "EUR",
+                        "value": 80
+                    }
+                }
+            ],
+            "channel": "instagram"
+        },
+        {
+            "id": "2007A248-EBC8-4F07-AE27-D26049774606",
+            "specifics": [
+                "similarProducts",
+                "keywords",
+                "device",
+                "sex",
+                "age",
+                "location"
+            ],
+            "channel": "adwords",
+            "campaigns": [
+                {
+                    "price": {
+                        "value": 150,
+                        "currency": "EUR"
+                    },
+                    "features": [
+                        {
+                            "optimisations": {
+                                "count": 3
+                            }
+                        },
+                        {
+                            "hasSetup": {}
+                        },
+                        {
+                            "hasEmailSupport": {}
+                        },
+                        {
+                            "hasContentCreation": {}
+                        },
+                        {
+                            "hasAdminAndMonitoring": {}
+                        }
+                    ],
+                    "id": "5DFE8DD5-875E-4D0D-B0C7-28D74EA5318A"
+                },
+                {
+                    "id": "1C8F2D52-601F-4339-BDC3-8F26A5A76EBF",
+                    "price": {
+                        "value": 230,
+                        "currency": "EUR"
+                    },
+                    "features": [
+                        {
+                            "optimisations": {
+                                "count": 5
+                            }
+                        },
+                        {
+                            "hasMonthlyReports": {}
+                        },
+                        {
+                            "hasSetup": {}
+                        },
+                        {
+                            "hasEmailSupport": {}
+                        },
+                        {
+                            "hasPhoneSupport": {}
+                        },
+                        {
+                            "hasContentCreation": {}
+                        },
+                        {
+                            "hasAdminAndMonitoring": {}
+                        }
+                    ]
+                },
+                {
+                    "features": [
+                        {
+                            "optimisations": {
+                                "count": 1
+                            }
+                        },
+                        {
+                            "hasSetup": {}
+                        },
+                        {
+                            "hasEmailSupport": {}
+                        },
+                        {
+                            "hasContentCreation": {}
+                        }
+                    ],
+                    "price": {
+                        "value": 90,
+                        "currency": "EUR"
+                    },
+                    "id": "0DCABC1A-3F70-41DC-BBE3-6D7D99E05F6A"
+                }
+            ]
+        },
+        {
+            "id": "B9562C86-ACA5-4A89-A3EC-D652AEEE4DE5",
+            "channel": "seo",
+            "campaigns": [
+                {
+                    "id": "F849DEB1-3DA6-4884-BC2F-E60EC3C66C20",
+                    "features": [
+                        {
+                            "hasAnalysis": {}
+                        },
+                        {
+                            "hasEmailSupport": {}
+                        },
+                        {
+                            "hasContentAnalysis": {}
+                        },
+                        {
+                            "hasHyperlinksAnalysis": {}
+                        },
+                        {
+                            "hasScopeSetup": {}
+                        },
+                        {
+                            "hasMarketResearch": {}
+                        },
+                        {
+                            "hasKeywordsResearch": {}
+                        },
+                        {
+                            "hasLocalSEO": {}
+                        },
+                        {
+                            "hasWebsiteOptimisation": {}
+                        },
+                        {
+                            "hasBacklinkSetup": {}
+                        }
+                    ],
+                    "price": {
+                        "currency": "EUR",
+                        "value": 270
+                    }
+                },
+                {
+                    "id": "3E54A578-F259-4897-997F-22B008F379EE",
+                    "price": {
+                        "value": 320,
+                        "currency": "EUR"
+                    },
+                    "features": [
+                        {
+                            "hasAnalysis": {}
+                        },
+                        {
+                            "hasEmailSupport": {}
+                        },
+                        {
+                            "hasContentAnalysis": {}
+                        },
+                        {
+                            "hasHyperlinksAnalysis": {}
+                        },
+                        {
+                            "hasScopeSetup": {}
+                        },
+                        {
+                            "hasMarketResearch": {}
+                        },
+                        {
+                            "hasKeywordsResearch": {}
+                        },
+                        {
+                            "hasLocalSEO": {}
+                        },
+                        {
+                            "hasWebsiteOptimisation": {}
+                        },
+                        {
+                            "hasAuditSEO": {}
+                        },
+                        {
+                            "hasBacklinkSetup": {}
+                        }
+                    ]
+                },
+                {
+                    "id": "98EFEDFB-C3CF-4BBE-B6E1-AFEBA23C5118",
+                    "price": {
+                        "currency": "EUR",
+                        "value": 180
+                    },
+                    "features": [
+                        {
+                            "hasEmailSupport": {}
+                        },
+                        {
+                            "hasContentAnalysis": {}
+                        },
+                        {
+                            "hasHyperlinksAnalysis": {}
+                        },
+                        {
+                            "hasScopeSetup": {}
+                        },
+                        {
+                            "hasMarketResearch": {}
+                        },
+                        {
+                            "hasKeywordsResearch": {}
+                        },
+                        {
+                            "hasLocalSEO": {}
+                        },
+                        {
+                            "hasBacklinkSetup": {}
+                        }
+                    ]
+                },
+                {
+                    "price": {
+                        "value": 110,
+                        "currency": "EUR"
+                    },
+                    "features": [
+                        {
+                            "hasEmailSupport": {}
+                        },
+                        {
+                            "hasContentAnalysis": {}
+                        },
+                        {
+                            "hasScopeSetup": {}
+                        },
+                        {
+                            "hasMarketResearch": {}
+                        },
+                        {
+                            "hasKeywordsResearch": {}
+                        },
+                        {
+                            "hasLocalSEO": {}
+                        }
+                    ],
+                    "id": "D870798A-BE80-4FD0-AE31-291F77B23796"
+                }
+            ],
+            "specifics": [
+                "hyperlinks",
+                "keywords",
+                "industry"
+            ]
+        }
+    ]
+}
